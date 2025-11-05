@@ -1,27 +1,67 @@
 <h1 align="center">Hi 👋, I'm Assil Mathlouthi</h1>
-<h3 align="center">I’m a software builder from Tunisia — just out here turning my own ideas into code</h3>
-<img src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" alt="Loading" / align='right'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=as-tra&label=Profile%20views&color=0e75b6&style=flat" alt="as-tra" /> </p>
+###
 
-- 🔭 I’m currently working on **Rekcha: card game**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=assil-mathlouthi.assil-mathlouthi&"  />
+</div>
 
-- 🌱 I’m currently learning **Go + Flutter**
+###
 
-- 💬 Ask me about **Flutter , Python , Go**
+<div align="center">
+  <a href="https://www.youtube.com/@AssilMathlouthi0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/assil-mathlouthi-937773240/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
+###
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/assil-mathlouthi-937773240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/assil-mathlouthi-937773240/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/assil mathlouthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="assil mathlouthi" height="30" width="40" /></a>
-</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=assil-mathlouthi&show_icons=true&locale=en&layout=compact" alt="assil-mathlouthi" /></p>
+<img align="right" height="150" src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif"  />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=assil-mathlouthi&show_icons=true&locale=en" alt="assil-mathlouthi" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assil-mathlouthi&" alt="assil-mathlouthi" /></p>
+<p align="left">I’m a software builder from Tunisia — just out here turning my own ideas into code<br><br>- 🔭 I’m currently working on Rekcha: a card game<br><br>- 🌱 I’m currently learning Go + Flutter<br><br>-💬 Ask me about Flutter, Python, Go</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=assil-mathlouthi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=assil-mathlouthi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
