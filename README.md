@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Assil Mathlouthi</h1>
 <h3 align="center">I’m a software builder from Tunisia — just out here turning my own ideas into code</h3>
+<img src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" alt="Loading" / align='right'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=assil-mathlouthi&label=Profile%20views&color=0e75b6&style=flat" alt="assil-mathlouthi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=as-tra&label=Profile%20views&color=0e75b6&style=flat" alt="as-tra" /> </p>
 
 - 🔭 I’m currently working on **Rekcha: card game**
 
@@ -10,9 +11,6 @@
 - 💬 Ask me about **Flutter , Python , Go**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/assil-mathlouthi-937773240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/assil-mathlouthi-937773240/" height="30" width="40" /></a>
-</p>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/assil-mathlouthi-937773240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/assil-mathlouthi-937773240/" height="30" width="40" /></a>
